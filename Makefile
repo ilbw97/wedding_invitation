@@ -16,4 +16,4 @@ formatting:
 # Pattern rule to run Go files based on directory and language
 run:
 	make formatting;
-	$(GORUN) $(NUM)/$(NUM)_$(LANG).go
+	$(GORUN) design/$(NUM)/$(NUM)_$(LANG).go
