@@ -26,9 +26,9 @@ func main() {
 
 	// A special message to our guests
 	message := `
-"Together, we begin a new chapter of our love story.
-We warmly invite you to join us on this joyous day 
-to celebrate our union and share in our happiness."
+	"Together, we begin a new chapter of our love story.
+	We warmly invite you to join us on this joyous day 
+	to celebrate our union and share in our happiness."
 `
 
 	fmt.Println("=======================================")
