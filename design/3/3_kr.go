@@ -19,7 +19,7 @@ func main() {
 	invitation := WeddingInvitation{
 		Groom:    "이병우",
 		Bride:    "오예영",
-		Date:     "2025-05-17",
+		Date:     "2025년 05월 17일 토요일",
 		Time:     "오후 12:20",
 		Location: "더 링크 호텔 7층 화이트 홀",
 	}
