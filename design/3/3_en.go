@@ -29,7 +29,7 @@ func main() {
 	"Together, we begin a new chapter of our love story.
 	We warmly invite you to join us on this joyous day 
 	to celebrate our union and share in our happiness."
-`
+	`
 
 	fmt.Println("=======================================")
 	fmt.Println("💍   You're Invited to Our Wedding!  💍")
