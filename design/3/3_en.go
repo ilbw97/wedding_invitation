@@ -43,7 +43,7 @@ func main() {
 	fmt.Println("---------------------------------------")
 	fmt.Println()
 	fmt.Println("🌸 A Special Message 🌸")
-	fmt.Println(message) // 하객들에게 전하는 메시지 출력
+	fmt.Println(message)
 	fmt.Println("---------------------------------------")
 	fmt.Println("💖 We look forward to celebrating with you! 💖")
 }
